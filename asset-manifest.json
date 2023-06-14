@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transformations/static/css/main.b58ff616.css",
+    "main.js": "/transformations/static/js/main.5849fc77.js",
+    "index.html": "/transformations/index.html",
+    "main.b58ff616.css.map": "/transformations/static/css/main.b58ff616.css.map",
+    "main.5849fc77.js.map": "/transformations/static/js/main.5849fc77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b58ff616.css",
+    "static/js/main.5849fc77.js"
+  ]
+}
